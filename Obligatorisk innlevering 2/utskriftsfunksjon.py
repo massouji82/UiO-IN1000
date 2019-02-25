@@ -24,5 +24,5 @@ gjenta()
 gjenta()
 
 # Jeg skjønner ikke helt hvorfor den gjentar 3 ganger når jeg bare caller funksjonen 2 ganger?
-
-
+# Funksjonen gjenta() blir bare kalt to ganger, det er riktig.
+# Linje 9-11 er grunnen til at det ser ut som det blir gjentatt 3 ganger
